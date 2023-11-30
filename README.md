@@ -1,4 +1,4 @@
-# Smith Waterman Algorithm
+# Smith Waterman Algorithm and Needleman Wunsch Algorithm
 **Overview**
 This C++ program utilizes the Smith algorithm to compare Protein Data Bank (PDB) files of amino acids. The algorithm is applied to compare PDB1 with PDB2 to identify the highest match and to compare PDB1 with PDB3 to identify the least match.
 
